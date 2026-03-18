@@ -1,0 +1,3 @@
+grafana-api
+prometheus-api-client
+requests
